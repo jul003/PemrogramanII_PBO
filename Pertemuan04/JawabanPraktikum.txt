@@ -1,0 +1,15 @@
+Bagian I
+14. =  Error	CS0122	'Product_714220030.myType' is inaccessible due to its protection level 
+ terdapat error di line 14 dikarenakan tingkat proteksinya, error ini muncul ketik  C# mencoba mengakses tipe (kelas, struktur, antarmuka, dll.) atau anggota (field, metode, properti, dll.) dari tipe tertentu, tetapi pemodifier akses dari anggota atau tipe tersebut tidak mengizinkan akses dari lokasi kode saat ini.
+
+19. = Tidak memunculkan apa - apa dikarenakan variable string mytype tidak menghasilkan apapun (null)
+
+24. Nilai MyType akan dikembalikan pada object string MyType dalam class Product_714220030, dan nilai string "DVD" telah dimasukkan ke dalam object MyType. Oleh karena itu, nilai object myProduct.MyType dapat dicetak ketika digunakan fungsi Console.WriteLine(myProduct.MyType).
+
+Bagian II
+
+8. Karena myTitle sudah digunakan pada class Product dan tidak ada class turunan atau base class untuk class Book, myTitle tidak digunakan pada class Product.
+
+12. Dengan menambahkan kode base, kita dapat memanggil konstruktor dari kelas "Product_714220030", yang akan memanggil type dan title di dalam parameternya untuk menampilkan nilai konstruktor.
+
+
