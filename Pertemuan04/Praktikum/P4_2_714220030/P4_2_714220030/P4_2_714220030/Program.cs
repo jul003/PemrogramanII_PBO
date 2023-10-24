@@ -47,7 +47,7 @@ namespace P4_2_714220030
             // Constructor
 
             // Membuat objek pemain Barcelona menggunakan konstruktor
-            BarcaPlayer player1 = new BarcaPlayer("Lewandowskii", 9, "Penyerang");
+            BarcaPlayer player1 = new BarcaPlayer("Marc Guiu", 9, "Penyerang");
             BarcaPlayer player2 = new BarcaPlayer("Gavi", 6, "Gelandang");
             BarcaPlayer player3 = new BarcaPlayer("Araujo", 3, "Bek");
 
