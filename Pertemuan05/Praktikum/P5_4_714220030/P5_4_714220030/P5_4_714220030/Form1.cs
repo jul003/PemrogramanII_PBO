@@ -47,42 +47,42 @@ namespace P5_4_714220030
 
             if (biolabodo.Checked)
             {
-                kelasbodo += "biolabodo, ";
+                kelasbodo += "biola, ";
             }
 
             if (gitarbodo.Checked)
             {
-                kelasbodo += "gitarbodo, ";
+                kelasbodo += "gitar, ";
             }
 
             if (saxbodo.Checked)
             {
-                kelasbodo += "saxobodo, ";
+                kelasbodo += "saxophone, ";
             }
 
             if (konbodo.Checked)
             {
-                kelasbodo += "konbodo, ";
+                kelasbodo += "konduktor, ";
             }
 
             if (pianobodo.Checked)
             {
-                kelasbodo += "pianobodo, ";
+                kelasbodo += "piano, ";
             }
 
             if (drumbodo.Checked)
             {
-                kelasbodo += "drumbodo, ";
+                kelasbodo += "drum, ";
             }
 
             if (vokalbodo.Checked)
             {
-                kelasbodo += "vokalbodo, ";
+                kelasbodo += "vokal, ";
             }
 
             if (kombodo.Checked)
             {
-                kelasbodo += "kombodo, ";
+                kelasbodo += "komposer, ";
             }
 
             if (!string.IsNullOrEmpty(kelasbodo))
