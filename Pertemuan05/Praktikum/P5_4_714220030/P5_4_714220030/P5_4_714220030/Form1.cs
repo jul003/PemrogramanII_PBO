@@ -114,19 +114,19 @@ namespace P5_4_714220030
             {
                 MessageBox.Show("Nama : " + namabodo.Text + "\nJenis Kelamin : " + kelaminbodoo + "\nTanggal Lahir : " + tanggalbodoo + "\nPilihan Kelas : " + kelasbodo + "\nPilihan Jadwal : " + jadwalbodo, "Informasi Pendaftaran", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            else if (namabodo.Text == "")
+            if (namabodo.Text == "")
             {
                 MessageBox.Show("Masukkan nama anda, tidak boleh kosong", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (kelaminbodoo == "")
+            if (kelaminbodoo == "")
             {
                 MessageBox.Show("Pilih jenis kelamin anda, tidak boleh kosong", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (kelasbodo == "")
+            if (kelasbodo == "")
             {
                 MessageBox.Show("Harus memilih satu dari pilihan kelas", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (jadwalbodo == "")
+            if (jadwalbodo == "")
             {
                 MessageBox.Show("Harus memilih satu dari pilihan jadwal", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
