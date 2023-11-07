@@ -112,6 +112,7 @@
             this.namabodo.Name = "namabodo";
             this.namabodo.Size = new System.Drawing.Size(483, 22);
             this.namabodo.TabIndex = 2;
+            this.namabodo.TextChanged += new System.EventHandler(this.namabodo_TextChanged);
             // 
             // kelaminbodo
             // 

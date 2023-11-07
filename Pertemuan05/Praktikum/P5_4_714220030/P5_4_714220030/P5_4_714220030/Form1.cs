@@ -141,5 +141,10 @@ namespace P5_4_714220030
         {
 
         }
+
+        private void namabodo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
