@@ -126,3 +126,5 @@ Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\
 Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\obj\Debug\P11_714220030.pdb
 Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\obj\Debug\P9_714220030.view.ParentForm.resources
 Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\obj\Debug\P9_714220030.view.FormNilai.resources
+Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\obj\Debug\P9_714220030.view.FormBarang.resources
+Z:\Semester 3\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220030\P9_714220030\obj\Debug\P9_714220030.view.FormTransaksiBarang.resources
